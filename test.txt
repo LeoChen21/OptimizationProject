@@ -1,0 +1,6 @@
+def func():
+    array = []
+    for i in range(8):
+        array.append(i)
+        count = [1, 2, 3, 4]
+    return array
